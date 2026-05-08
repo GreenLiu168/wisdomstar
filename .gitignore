@@ -1,0 +1,35 @@
+```
+# Compiled and build artifacts
+*.o
+*.obj
+*.out
+
+# Dependencies
+*.a
+*.so
+*.dll
+*.exe
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Editors
+*.swp
+*.swo
+
+# Build directories
+build/
+dist/
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+```
